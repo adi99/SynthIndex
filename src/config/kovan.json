@@ -4,7 +4,7 @@
   "defaultPrecision": 2,
   "rpcUrl": "https://kovan.infura.io/v3/d426cb2900374e00ae87af6402ad7abc",
   "wsUrl": "wss://kovan.infura.io/ws/v3/d426cb2900374e00ae87af6402ad7abc",
-  "subgraphUrl": "https://api.thegraph.com/subgraphs/name/adi99/synthindex-subgraph",
+  "subgraphUrl": "https://api.thegraph.com/subgraphs/name/adi99/subgraph-sythindex",
   "explorer": "https://kovan.etherscan.io",
   "exchangeUrl": "https://synthetix.exchange",
   "addresses": {
